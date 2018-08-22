@@ -1,0 +1,16 @@
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Jia.SuperS.UnitTest.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Jia.SuperS.UnitTest.pdb
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Jia.SuperS.Data.Model.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Jia.SuperS.Data.Model.pdb
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\obj\Debug\Jia.SuperS.UnitTest.csprojAssemblyReference.cache
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\obj\Debug\Jia.SuperS.UnitTest.csproj.CoreCompileInputs.cache
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\obj\Debug\Jia.SuperS.UnitTest.csproj.CopyComplete
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\obj\Debug\Jia.SuperS.UnitTest.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Vic.SuperS.UnitTest\obj\Debug\Jia.SuperS.UnitTest.pdb

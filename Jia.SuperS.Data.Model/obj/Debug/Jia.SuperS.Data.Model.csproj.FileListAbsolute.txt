@@ -1,0 +1,5 @@
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Model\bin\Debug\Jia.SuperS.Data.Model.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Model\bin\Debug\Jia.SuperS.Data.Model.pdb
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Model\obj\Debug\Jia.SuperS.Data.Model.csproj.CoreCompileInputs.cache
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Model\obj\Debug\Jia.SuperS.Data.Model.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Model\obj\Debug\Jia.SuperS.Data.Model.pdb

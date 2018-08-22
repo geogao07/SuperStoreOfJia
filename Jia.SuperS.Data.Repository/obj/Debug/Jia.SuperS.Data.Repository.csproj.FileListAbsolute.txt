@@ -1,0 +1,9 @@
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\bin\Debug\Jia.SuperS.Data.Repository.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\bin\Debug\Jia.SuperS.Data.Repository.pdb
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\bin\Debug\Jia.SuperS.Data.Model.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\bin\Debug\Jia.SuperS.Data.Model.pdb
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\obj\Debug\Jia.SuperS.Data.Repository.csprojAssemblyReference.cache
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\obj\Debug\Jia.SuperS.Data.Repository.csproj.CoreCompileInputs.cache
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\obj\Debug\Jia.SuperS.Data.Repository.csproj.CopyComplete
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\obj\Debug\Jia.SuperS.Data.Repository.dll
+D:\Victoria_GUAN_YU_C#\lectures\lecture6\Vic.SuperS\Jia.SuperS.Data.Repository\obj\Debug\Jia.SuperS.Data.Repository.pdb
